@@ -1,6 +1,6 @@
-## Descrição do Projeto
+## 📌 Projeto: Sistema de Gerenciamento de Oficina Mecânica
 
-Este projeto tem como objetivo o desenvolvimento de um modelo conceitual de um Banco de Dados para gerenciamento da execução de ordens de serviço (OS) em uma oficina mecânica. O modelo permite o registro de clientes, veículos, equipes de mecânicos, serviços prestados e peças utilizadas. O modelo foi elaborado para garantir a integridade dos dados e otimizar o processo de gestão das ordens de serviço.
+Este projeto tem como objetivo o desenvolvimento de um modelo conceitual e do esquema lógico de um Banco de Dados para gerenciamento da execução de ordens de serviço (OS) em uma oficina mecânica. O modelo permite o registro de clientes, veículos, equipes de mecânicos, serviços prestados e peças utilizadas. O modelo foi elaborado para garantir a integridade dos dados e otimizar o processo de gestão das ordens de serviço.
 
 ## Funcionalidades Principais
 
